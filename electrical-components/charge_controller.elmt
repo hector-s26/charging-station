@@ -1,7 +1,7 @@
 <definition type="element" link_type="simple" hotspot_x="65" hotspot_y="87" width="130" height="180" version="0.100.0">
     <uuid uuid="{782d9e0d-c293-4886-b58a-144e17459253}"/>
     <names>
-        <name lang="en">New element name</name>
+        <name lang="en">Charge Controller</name>
     </names>
     <elementInformations/>
     <description>
