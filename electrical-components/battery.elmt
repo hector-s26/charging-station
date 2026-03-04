@@ -1,0 +1,23 @@
+<definition type="element" link_type="simple" hotspot_x="35" hotspot_y="31" width="70" height="50" version="0.100.0">
+    <uuid uuid="{eb2457cb-6312-418a-8aef-9d8a20917195}"/>
+    <names>
+        <name lang="en">Battery</name>
+    </names>
+    <elementInformations/>
+    <description>
+        <rect ry="0" x="-30" y="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="60" height="35" rx="0"/>
+        <rect ry="0" x="18" y="-25" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="5" height="5" rx="0"/>
+        <rect ry="0" x="-23" y="-25" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="5" height="5" rx="0"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="-26" y="-28" z="3" rotation="0" font="Liberation Sans,2,-1,0,50,0,0,0,0,0,Regular" text_width="-1" uuid="{230aa55e-a2d2-489a-9faf-46e15ea9b3b2}" keep_visual_rotation="false" text_from="UserText" Valignment="AlignTop">
+            <text>+</text>
+        </dynamic_text>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="15" y="-29" z="3" rotation="0" font="Liberation Sans,3,-1,0,50,0,0,0,0,0,Regular" text_width="-1" uuid="{230aa55e-a2d2-489a-9faf-46e15ea9b3b2}" keep_visual_rotation="false" text_from="UserText" Valignment="AlignTop">
+            <text>-</text>
+        </dynamic_text>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="-16" y="-20" z="4" rotation="0" font="Liberation Sans,5,-1,0,50,0,0,0,0,0,Regular" text_width="-1" uuid="{b700e9b2-3e99-4688-9dc0-e9ce3eddd5bb}" keep_visual_rotation="false" text_from="UserText" Valignment="AlignTop">
+            <text>Battery</text>
+        </dynamic_text>
+        <terminal type="Generic" x="-23" y="-25" name="" uuid="{32f29f2f-463d-4bfd-85eb-561f07cc3d07}" orientation="n"/>
+        <terminal type="Generic" x="23" y="-25" name="" uuid="{f8c4926e-1441-4b0b-9daf-57e39304c408}" orientation="n"/>
+    </description>
+</definition>
