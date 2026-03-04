@@ -1,0 +1,22 @@
+<definition type="element" link_type="simple" hotspot_x="45" hotspot_y="65" width="90" height="110" version="0.100.1">
+    <uuid uuid="{a8fbc0be-fa79-4732-a591-b5c5caa3e4cf}"/>
+    <names>
+        <name lang="en">Outlet</name>
+    </names>
+    <elementInformations/>
+    <description>
+        <rect ry="0" x="5" y="-15" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" height="20" rx="0"/>
+        <circle x="-40" y="-40" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="80"/>
+        <rect ry="0" x="-15" y="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" height="30" rx="0"/>
+        <arc x="-5" y="20" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="90" width="10" height="10" angle="90"/>
+        <arc x="-5" y="20" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" width="10" height="10" angle="90"/>
+        <line end1="none" end2="none" y1="25" antialias="false" y2="25" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-5" length1="1.5" x2="5" length2="1.5"/>
+        <ellipse x="-30" y="-60" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="60" height="20"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="-15" y="-35" z="8" rotation="0" font="Liberation Sans,8,-1,0,50,0,0,0,0,0,Regular" text_width="-1" uuid="{2b9178b2-19c0-4b51-a999-436fa358e67d}" keep_visual_rotation="false" text_from="UserText" Valignment="AlignTop">
+            <text>Outlet</text>
+        </dynamic_text>
+        <terminal type="Generic" x="-6" y="-44" name="" uuid="{edf61543-54bf-46e7-b6ab-dc7302dbff61}" orientation="n"/>
+        <terminal type="Generic" x="5" y="-44" name="" uuid="{41217ad4-b158-415f-9d51-ad9eb7733e86}" orientation="n"/>
+        <terminal type="Generic" x="-1" y="-44" name="" uuid="{d2cfef1e-2061-4bb1-bfd6-dc289b3550db}" orientation="n"/>
+    </description>
+</definition>
