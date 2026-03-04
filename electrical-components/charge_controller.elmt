@@ -1,0 +1,30 @@
+<definition type="element" link_type="simple" hotspot_x="65" hotspot_y="87" width="130" height="180" version="0.100.0">
+    <uuid uuid="{782d9e0d-c293-4886-b58a-144e17459253}"/>
+    <names>
+        <name lang="en">New element name</name>
+    </names>
+    <elementInformations/>
+    <description>
+        <rect ry="0" x="-60" y="-80" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="120" height="160" rx="0"/>
+        <rect ry="0" x="-40" y="-60" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="80" height="60" rx="0"/>
+        <rect ry="0" x="-30" y="-50" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="40" height="25" rx="0"/>
+        <rect ry="0" x="20" y="-50" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" height="5" rx="0"/>
+        <rect ry="0" x="20" y="-40" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" height="5" rx="0"/>
+        <rect ry="0" x="20" y="-30" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="10" height="5" rx="0"/>
+        <circle x="-30" y="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10"/>
+        <circle x="-20" y="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10"/>
+        <circle x="-10" y="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10"/>
+        <circle x="0" y="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="10"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="-50" y="20" z="11" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text_width="-1" uuid="{4d2ab370-dc1f-4f9a-9b81-b9acfb6f3a49}" keep_visual_rotation="false" text_from="UserText" Valignment="AlignTop">
+            <text>Charge Controller</text>
+        </dynamic_text>
+        <terminal type="Generic" x="-40" y="80" name="" uuid="{91fa7243-cb7b-4c1e-8cdd-3a87ed414e91}" orientation="n"/>
+        <terminal type="Generic" x="10" y="80" name="" uuid="{e197f9d8-a696-4b27-a641-4ae0504ce8d1}" orientation="n"/>
+        <terminal type="Generic" x="-30" y="80" name="" uuid="{b2e77724-9e10-4a56-8130-53ba71f168a2}" orientation="n"/>
+        <terminal type="Generic" x="20" y="80" name="" uuid="{438d9639-c5b9-4cc6-8a90-26f66822dd4b}" orientation="n"/>
+        <terminal type="Generic" x="-20" y="80" name="" uuid="{99a1d87c-db95-4837-a6c8-0626b2ce5981}" orientation="n"/>
+        <terminal type="Generic" x="-10" y="80" name="" uuid="{5280a80b-74fd-46aa-86c5-0e91d24d5163}" orientation="n"/>
+        <terminal type="Generic" x="0" y="80" name="" uuid="{660b7dbf-5e23-4752-a47a-72f49452f96f}" orientation="n"/>
+        <terminal type="Generic" x="30" y="80" name="" uuid="{5ca2149b-0ea2-4283-8c4b-b75892aa2860}" orientation="n"/>
+    </description>
+</definition>
